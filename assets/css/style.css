@@ -1,8 +1,20 @@
-body{
-	background-image:url ("https://static9.depositphotos.com/1154062/1136/v/950/depositphotos_11369635-stock-illustration-white-crystal-abstract-background.jpg");
-	opacity:.5;
+body {
+	background-image: url("https://0.s3.envato.com/files/211378927/02_Bright%20Crystal%20Background.jpg");
 }
 
 p{
 	color:blue;
+	background-color:;
+}
+
+.instructions{
+	background:#ADD8E6;
+	padding:10px;
+	border-style: solid;
+	align-self:center;
+}
+
+.gemImage{
+	height:100px;
+	margin:5px;
 }
