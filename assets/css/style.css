@@ -18,3 +18,27 @@ p{
 	height:100px;
 	margin:5px;
 }
+
+.randomTargetNumber{
+	background-color: white;
+}
+
+.randomTotalScore{
+	background-color: white;
+
+}
+.runningTotalScore{
+	background-color: white;
+}
+
+.userScore{
+	background-color: white;
+}
+
+.randTargetNumber{
+	background-color: white;
+}
+
+.currentScore{
+	background-color: white;
+}
